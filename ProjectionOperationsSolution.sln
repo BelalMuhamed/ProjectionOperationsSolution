@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Select", "Select\Select.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectMany", "SelectMany\SelectMany.csproj", "{6B786C68-F6FF-4EE4-8AA9-CEB5A89BB6B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zip", "Zip\Zip.csproj", "{5F52D375-D2AE-4B03-8346-28C49943B389}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6B786C68-F6FF-4EE4-8AA9-CEB5A89BB6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B786C68-F6FF-4EE4-8AA9-CEB5A89BB6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B786C68-F6FF-4EE4-8AA9-CEB5A89BB6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F52D375-D2AE-4B03-8346-28C49943B389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F52D375-D2AE-4B03-8346-28C49943B389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F52D375-D2AE-4B03-8346-28C49943B389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F52D375-D2AE-4B03-8346-28C49943B389}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
